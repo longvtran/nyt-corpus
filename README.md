@@ -1,4 +1,3 @@
-# nyt-corpus
 Code to obtain The New York Times Annotated Corpus ([LDC2008T19](https://catalog.ldc.upenn.edu/LDC2008T19)) for summarization. Note: To obtain the corpus, refer to https://catalog.ldc.upenn.edu.
 
 ### Citation
